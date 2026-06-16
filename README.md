@@ -13,3 +13,9 @@ ai-infra-agentic-ai-developer-solutions/
 ├── SOLUTIONS_INDEX.md                 inventory + completion map
 └── README.md                          this file
 ```
+
+
+---
+
+<!-- aicg:maintained-by -->
+Maintained by [VeriSwarm.ai](https://veriswarm.ai)
