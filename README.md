@@ -9,7 +9,7 @@
 ## 🎯 Overview
 
 This repository holds the **reference solutions** for the paired
-[`ai-infra-agentic-ai-developer-learning`](https://github.com/ai-infra-curriculum/ai-infra-agentic-ai-developer-learning)
+[`ai-infra-agentic-ai-developer-learning`](https://github.com/ai-engineering-curriculum/agentic-ai-developer-learning)
 track — the entry rung of the Agentic AI engineering ladder, covering LLM
 fundamentals, prompt engineering, tool and function calling, retrieval, your
 first reason-act agent, and shipping an LLM-powered application.
@@ -90,7 +90,7 @@ cycles. See [`SOLUTIONS_INDEX.md`](SOLUTIONS_INDEX.md) for the live completion m
 
 ## 🔗 Paired Learning Repository
 
-- **[ai-infra-agentic-ai-developer-learning](https://github.com/ai-infra-curriculum/ai-infra-agentic-ai-developer-learning)**
+- **[ai-infra-agentic-ai-developer-learning](https://github.com/ai-engineering-curriculum/agentic-ai-developer-learning)**
   — the learning materials, exercises, and project stubs these solutions answer.
   Work there first; return here to compare.
 
