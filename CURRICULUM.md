@@ -20,3 +20,11 @@ status, see [`SOLUTIONS_INDEX.md`](./SOLUTIONS_INDEX.md).
 |------|---------|------|
 | project-101 | Capstone: Ship an LLM-Powered Application | [`projects/project-101-llm-powered-app`](./projects/project-101-llm-powered-app) |
 | project-102 | A Simple Tool-Using Agent | [`projects/project-102-tool-using-agent`](./projects/project-102-tool-using-agent) |
+
+## Shipped (autonomous)
+
+Auto-appended by the AICG runner. One row per verified work item. Edit the rest of the document by hand; this section is additive only.
+
+| Date | Work ID | Scope | Title |
+|---|---|---|---|
+| 2026-11-04 | `fill-mod-109-minimal-eval-and-regression-checks-solutions` | `mod-109-minimal-eval-and-regression-checks` | Fill mod-109-minimal-eval-and-regression-checks module exercise solutions |
