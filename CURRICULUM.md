@@ -20,6 +20,7 @@ status, see [`SOLUTIONS_INDEX.md`](./SOLUTIONS_INDEX.md).
 |------|---------|------|
 | project-101 | Capstone: Ship an LLM-Powered Application | [`projects/project-101-llm-powered-app`](./projects/project-101-llm-powered-app) |
 | project-102 | A Simple Tool-Using Agent | [`projects/project-102-tool-using-agent`](./projects/project-102-tool-using-agent) |
+| project-103 | Multi-Provider Comparison Report | [`projects/project-103-multi-provider-comparison-report`](./projects/project-103-multi-provider-comparison-report) |
 
 ## Shipped (autonomous)
 
@@ -28,3 +29,4 @@ Auto-appended by the AICG runner. One row per verified work item. Edit the rest 
 | Date | Work ID | Scope | Title |
 |---|---|---|---|
 | 2026-11-03 | `fill-mod-107-streaming-async-and-orchestration-solutions` | `mod-107-streaming-async-and-orchestration` | Fill mod-107-streaming-async-and-orchestration module exercise solutions |
+| 2026-11-04 | `fill-project-103-multi-provider-comparison-report-solution` | `project-103-multi-provider-comparison-report` | Author solution artifact for project-103-multi-provider-comparison-report |
